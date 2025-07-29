@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "users": [{
+        "cliente_ID": "gg_106263452150533879793",
+        "cliente_NOMBRE": "SwyKz",
+        "cliente_FECHA_EXPIRACION": "2028-12-31 00:00:00",
+        "cliente_STATE": 3,
+        "cliente_SUBSCRIPTION": ""
+    }, {
+        "cliente_ID": "gg_109593757648223008668",
+        "cliente_NOMBRE": "Egeg",
+        "cliente_FECHA_EXPIRACION": "2028-12-31 00:00:00",
+        "cliente_STATE": 3,
+        "cliente_SUBSCRIPTION": ""
+    }, {
+        "cliente_ID": "gg_109593757648223008668",
+        "cliente_NOMBRE": "Fırat",
+        "cliente_FECHA_EXPIRACION": "2028-12-31 00:00:00",
+        "cliente_STATE": 3,
+        "cliente_SUBSCRIPTION": ""
+    }]
+}
