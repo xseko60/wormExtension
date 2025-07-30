@@ -1638,7 +1638,7 @@ input[type="range"]:disabled {
   .material-icons {
     font-family: 'Material Icons' !important;
   }
-  #mm-zw-discord {
+  #mm-wp-discord {
     border: none !important;
   }
   .mdi--discord {
@@ -2058,7 +2058,7 @@ input[type="range"]:disabled {
   }*/
 
 
-  #mm-zw-settings,
+  #mm-wp-settings,
   #mm-store {
     background-color: #26c6da;
     color: #fff;
@@ -2108,7 +2108,7 @@ input[type="range"]:disabled {
   #mm-player-username{
     text-align: center;
   }
-  #mm-zw-settings {
+  #mm-wp-settings {
     border-end-end-radius: 0px !important;
     border-start-end-radius: 20px !important;
   }
@@ -2119,7 +2119,7 @@ input[type="range"]:disabled {
   #mm-settings,
   #mm-leaders,
   #mm-store,
-  #mm-zw-settings,
+  #mm-wp-settings,
   #mm-action-play,
   .stretch-container {
     border: 0 solid !important;
@@ -2138,7 +2138,7 @@ input[type="range"]:disabled {
   #mm-settings,
   #mm-leaders,
   #mm-store,
-  #mm-zw-settings,
+  #mm-wp-settings,
   #mm-action-play{
     border: 1px solid #ffe1ff;
     /*box-shadow: 0px 0px 15px 10px rgb(254 203 122) !important;*/
@@ -2169,7 +2169,7 @@ input[type="range"]:disabled {
   #mm-settings:hover,
   #mm-leaders:hover,
   #mm-store:hover,
-  #mm-zw-settings:hover,
+  #mm-wp-settings:hover,
   #mm-action-play:hover
   .stretch-container:hover {
     border: 1px solid !important;
