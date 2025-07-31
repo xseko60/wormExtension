@@ -22,13 +22,7 @@
             "client_DateExpired": "2028-12-31",
             "status": 1
         },
-        {
-            "id": 4,
-            "client_name": "Orest",
-            "client_ID": "gg_113029494251536371314",
-            "client_DateExpired": "2028-12-31",
-            "status": 1
-        },
+        
         {
             "id": 5,
             "client_name": "980!",
@@ -44,10 +38,12 @@
             "status": 1
         }
     ]
-} {
-            "id": 4,
+ {
+            "id": 13,
             "client_name": "Orest",
-            "client_ID": "gg_113029494251536371314",
-            "client_DateExpired": "2028-12-31",
+            "client_ID": "gg_115228203525388580419",
+            "client_DateExpired": "111111-11-11",
             "status": 1
-        },
+        }
+    ]
+}}
